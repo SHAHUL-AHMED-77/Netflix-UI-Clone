@@ -9,9 +9,6 @@
 - [Important Notes](#important-notes)
 
 
-## Live Demo
-Check out the live demo [here](https://shahul-ahmed-77.github.io/Netflix-UI-Clone/).
-
 ## Preview Images
 
 ![Navigation Bar](Preview/one.png)
